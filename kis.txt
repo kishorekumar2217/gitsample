@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 can be meet
 no i cant
+=======
+i think i am not a good guy
+>>>>>>> feature
